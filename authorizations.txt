@@ -16,3 +16,5 @@
 # Example (remove the leading "# " to use):
 #   GATES-PASSED 2026-11-25
 #   AUTHORIZE DAV-19 until 2026-12-02 supervised run
+GATES-PASSED 2026-11-25
+AUTHORIZE DAV-12 until 2026-12-02 supervised run
