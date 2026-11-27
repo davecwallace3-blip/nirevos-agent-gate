@@ -1,4 +1,4 @@
-# NirevOS agent authorizations. The only record that lets a development agent work on a Linear issue.
+# NirevOS AGENTS-PAUSED authorizations. The only record that lets a development agent work on a Linear issue.
 #
 # This file lives in the public repository davecwallace3-blip/nirevos-agent-gate. The Claude GitHub App is not
 # installed on that repository, so agents can read this file but cannot change it. Keep only issue numbers and dates
