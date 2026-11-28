@@ -4,5 +4,4 @@
 # Authorization does not override the kill switch.
 
 GATES-PASSED 2026-11-25
-AGENTS-PAUSED
 AUTHORIZE DAV-28 until 2026-12-04 supervised run
