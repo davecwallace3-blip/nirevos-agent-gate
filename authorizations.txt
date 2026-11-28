@@ -1,6 +1,6 @@
 # NirevOS founder authorizations
 # Founder edits only. Staging only.
-# AGENTS-PAUSED stops every agent run.
+
 # Authorization does not override the kill switch.
 
 GATES-PASSED 2026-11-25
